@@ -1,0 +1,9 @@
+<resources>
+    <!-- dimens.xml file -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_to_write_font_size">26sp</dimen>
+    <dimen name="click_font_size">16sp</dimen>
+    <dimen name="wpm_font_size">20sp</dimen>
+</resources>

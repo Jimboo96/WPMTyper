@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TypingSpeedTest</string>
+    <string name="start_button">START TYPING</string>
+    <string name="editText_hint">Type here</string>
+    <string name="word_one">Word 1</string>
+    <string name="word_two">Word 2</string>
+    <string name="word_three">Word 3</string>
+    <string name="wpm_text">Your WPM: </string>
+    <string name="timer_text">Time left: </string>
+    <string name="hiscore_text">HiScore: </string>
+</resources>
